@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN and Next<br>🌱 I’m currently learning django<br>
+![](https://github.com/jatinsahu0410/jatinsahu0410/blob/main/background_profile.gif)
 
 
 ## 🌐 Socials:
